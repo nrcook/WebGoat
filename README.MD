@@ -1,4 +1,5 @@
 # WebGoat: A deliberately insecure Web Application
+[![DepShield Badge](https://depshield.sonatype.org/badges/nrcook/WebGoat/depshield.svg)](https://depshield.github.io)
 
 [![Build Status](https://travis-ci.org/WebGoat/WebGoat.svg?branch=develop)](https://travis-ci.org/WebGoat/WebGoat)
 [![Coverage Status](https://coveralls.io/repos/WebGoat/WebGoat/badge.svg?branch=master&service=github)](https://coveralls.io/github/WebGoat/WebGoat?branch=master)
